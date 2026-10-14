@@ -1,8 +1,8 @@
 /* Theme values used by the page. */
 :root {
-    --page-background: #17223b;
-    --page-text: #ffffff;
-    --accent: hsl(25, 50%, 49%);
+    --page-background: #f4f1ea;
+    --page-text: #17223b;
+    --accent: #bc743f;
 }
 
 * {
